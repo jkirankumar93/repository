@@ -23,7 +23,6 @@
              </configuration>
             </plugin>
         </plugins>
-  <build>
     <finalName>tomcatApp</finalName>
   </build>
 </project>
